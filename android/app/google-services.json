@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "30537702790",
+    "firebase_url": "https://enews-2f2ec.firebaseio.com",
+    "project_id": "enews-2f2ec",
+    "storage_bucket": "enews-2f2ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30537702790:android:adb10311f6d05362e7a007",
+        "android_client_info": {
+          "package_name": "com.goodnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30537702790-16jv7ubt6d9g581ddi6o2a0sr1lqh75e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnews",
+            "certificate_hash": "d7f8280af898d870f4db055b6dc6a0dfe77b4b2d"
+          }
+        },
+        {
+          "client_id": "30537702790-1im7g50bql5pid16rq5d8m9ah1a34k73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnews",
+            "certificate_hash": "7a5bcf21b0592c6e2e83afac5af5730609601ed4"
+          }
+        },
+        {
+          "client_id": "30537702790-gckd6o7q8fcsopc7jr5slbc4r97oc07f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnews",
+            "certificate_hash": "c95cd78dbb91fd5faa8c3296d046f4a244d48d85"
+          }
+        },
+        {
+          "client_id": "30537702790-h4kiifanocsr9oor9kh1qgq048jpt5pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnews",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "30537702790-ehaeheb746i3aums9voj97qv5l6gdpdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iKFuSbMNQoq8ZLXBzxHEzy64GqLM_Xk"
+        },
+        {
+          "current_key": "AIzaSyBwYvRE7uaGhGlTF1fvAAp4j0eB_8FmZzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30537702790-d39gvh604fatfdtoetstm3n2hbveal0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30537702790:android:32c160b2874a66f6e7a007",
+        "android_client_info": {
+          "package_name": "com.goodnewsv0hn1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30537702790-lihnvn33lgfs4o1o8fakmbbi5ingd94s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnewsv0hn1",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "30537702790-md54alvaojbupegef19hk48dtfpdnof6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnewsv0hn1",
+            "certificate_hash": "d7f8280af898d870f4db055b6dc6a0dfe77b4b2d"
+          }
+        },
+        {
+          "client_id": "30537702790-ub11a58k7trpd8mi2q0po5fe27usrqu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnewsv0hn1",
+            "certificate_hash": "c95cd78dbb91fd5faa8c3296d046f4a244d48d85"
+          }
+        },
+        {
+          "client_id": "30537702790-vrpn7m3tt5ivpvpo908i9l1nh898dbb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodnewsv0hn1",
+            "certificate_hash": "7a5bcf21b0592c6e2e83afac5af5730609601ed4"
+          }
+        },
+        {
+          "client_id": "30537702790-ehaeheb746i3aums9voj97qv5l6gdpdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iKFuSbMNQoq8ZLXBzxHEzy64GqLM_Xk"
+        },
+        {
+          "current_key": "AIzaSyBwYvRE7uaGhGlTF1fvAAp4j0eB_8FmZzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30537702790-d39gvh604fatfdtoetstm3n2hbveal0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30537702790:android:cc9669bf6e7ce087e7a007",
+        "android_client_info": {
+          "package_name": "com.goodnewsv0hn2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30537702790-ehaeheb746i3aums9voj97qv5l6gdpdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iKFuSbMNQoq8ZLXBzxHEzy64GqLM_Xk"
+        },
+        {
+          "current_key": "AIzaSyBwYvRE7uaGhGlTF1fvAAp4j0eB_8FmZzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30537702790-d39gvh604fatfdtoetstm3n2hbveal0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
